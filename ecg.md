@@ -1,4 +1,4 @@
-q# EKG/ECG Analysis: A Comprehensive Guide to Findings
+# EKG/ECG Analysis: A Comprehensive Guide to Findings
 
 ## Introduction
 
